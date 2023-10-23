@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileTotem</string>
+    <string name="blocca">Blocca</string>
+    <string name="termina">Termina</string>
+</resources>
